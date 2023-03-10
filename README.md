@@ -76,7 +76,7 @@ python manage.py runserver
 <p align="center">
   Landing page
 </p>
-![image](https://user-images.githubusercontent.com/86301474/224287452-2ecb3169-80c3-434c-853a-861ad8ea9774.png)
+<img src="https://user-images.githubusercontent.com/86301474/224287452-2ecb3169-80c3-434c-853a-861ad8ea9774.png"
 
 </td> 
 <td width="50%">
