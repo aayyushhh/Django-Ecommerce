@@ -4,6 +4,7 @@
 
 --> Clone the repository using the command below :
 ```bash
+ git clone https://github.com/aayyushhh/Django-Ecommerce.git
 
 
 ```
