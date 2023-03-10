@@ -4,7 +4,7 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/sajib1066/django-ecommerce.git
+
 
 ```
 
@@ -61,7 +61,7 @@ python manage.py runserver
 
 ```
 
-> ⚠ Then, the development server will be started at http://127.0.0.1:8000/
+>  The development server will be started at http://127.0.0.1:8000/
 
 #
 
@@ -75,14 +75,19 @@ python manage.py runserver
 <p align="center">
   Landing page
 </p>
-<img src="https://user-images.githubusercontent.com/47305153/186664016-c0aece16-cfe3-475f-8ca6-c5cac62c9f88.PNG">
+![image](https://user-images.githubusercontent.com/86301474/224287452-2ecb3169-80c3-434c-853a-861ad8ea9774.png)
+
 </td> 
 <td width="50%">
 <br>
 <p align="center">
   More view on landing page
 </p>
-<img src="https://user-images.githubusercontent.com/47305153/186664028-a661886b-88b5-474d-bcd8-1162258ab6d1.PNG">  
+ ![image](https://user-images.githubusercontent.com/86301474/224287527-1c8d35ab-5288-42b0-9de5-31e52277481b.png)
+ ![image](https://user-images.githubusercontent.com/86301474/224287615-a125e7aa-eb7b-4601-b3fb-877947183a46.png)
+![image](https://user-images.githubusercontent.com/86301474/224287750-cc0316bf-999b-4a43-8930-13e0c3b8131d.png)
+
+
 </td>
 </table>
 
