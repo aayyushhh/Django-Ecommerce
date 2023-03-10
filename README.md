@@ -84,9 +84,9 @@ python manage.py runserver
 <p align="center">
   More view on landing page
 </p>
- <img src="https://user-images.githubusercontent.com/86301474/224287527-1c8d35ab-5288-42b0-9de5-31e52277481b.png
- https://user-images.githubusercontent.com/86301474/224287615-a125e7aa-eb7b-4601-b3fb-877947183a46.png
-https://user-images.githubusercontent.com/86301474/224287750-cc0316bf-999b-4a43-8930-13e0c3b8131d.png
+ <img src="https://user-images.githubusercontent.com/86301474/224287527-1c8d35ab-5288-42b0-9de5-31e52277481b.png"
+ <img src="https://user-images.githubusercontent.com/86301474/224287615-a125e7aa-eb7b-4601-b3fb-877947183a46.png"
+<img src="https://user-images.githubusercontent.com/86301474/224287750-cc0316bf-999b-4a43-8930-13e0c3b8131d.png"
 
 
 </td>
