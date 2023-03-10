@@ -78,19 +78,14 @@ python manage.py runserver
 </p>
 <img src="https://user-images.githubusercontent.com/86301474/224287452-2ecb3169-80c3-434c-853a-861ad8ea9774.png"
 
-</td> 
-<td width="50%">
-<br>
-<p align="center">
+
   More view on landing page
-</p>
+
  <img src="https://user-images.githubusercontent.com/86301474/224287527-1c8d35ab-5288-42b0-9de5-31e52277481b.png"
  <img src="https://user-images.githubusercontent.com/86301474/224287615-a125e7aa-eb7b-4601-b3fb-877947183a46.png"
 <img src="https://user-images.githubusercontent.com/86301474/224287750-cc0316bf-999b-4a43-8930-13e0c3b8131d.png"
 
 
-</td>
-</table>
 
 
 ## Documentation
